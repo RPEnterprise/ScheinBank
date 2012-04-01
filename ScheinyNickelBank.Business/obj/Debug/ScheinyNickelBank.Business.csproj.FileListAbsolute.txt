@@ -1,0 +1,17 @@
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\ScheinyNickelBank.Business.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\ScheinyNickelBank.Business.pdb
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\obj\Debug\ScheinyNickelBank.Business.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\obj\Debug\ScheinyNickelBank.Business.pdb
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\ScheinyNickelBank.DataAccess.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Business\bin\Debug\ScheinyNickelBank.DataAccess.pdb
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.WebUI\ThirdPartyBin\ScheinyNickelBank.Business.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.WebUI\ThirdPartyBin\ScheinyNickelBank.Business.pdb
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.WebUI\Bin\ScheinyNickelBank.Business.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.WebUI\Bin\ScheinyNickelBank.Business.pdb

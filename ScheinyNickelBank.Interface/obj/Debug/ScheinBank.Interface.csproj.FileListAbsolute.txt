@@ -1,0 +1,5 @@
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.WebUI\Bin\ScheinyNickelBank.Interface.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.WebUI\Bin\ScheinyNickelBank.Interface.pdb
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Interface\obj\Debug\ScheinyNickelBank.Interface.dll
+C:\Scheiny Nickel Bank\ScheinyNickelBank\ScheinyNickelBank.Interface\obj\Debug\ScheinyNickelBank.Interface.pdb

@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ScheinyNickelBank.WebUI", "ScheinyNickelBank.WebUI\", "{1D348816-F7FE-468C-A523-6B173EDD5615}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/ScheinyNickelBank.WebUI"
+		Debug.AspNetCompiler.PhysicalPath = "ScheinyNickelBank.WebUI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ScheinyNickelBank.WebUI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ScheinyNickelBank.WebUI"
+		Release.AspNetCompiler.PhysicalPath = "ScheinyNickelBank.WebUI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ScheinyNickelBank.WebUI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53309"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheinBank.Business", "ScheinyNickelBank.Business\ScheinBank.Business.csproj", "{D8A2C64E-AFE7-4A04-88E1-6DEA1586BC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheinBank.Common", "ScheinyNickelBank.Common\ScheinBank.Common.csproj", "{1C023786-0891-4D09-B00A-B9B37BF893F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheinBank.DataAccess", "ScheinyNickelBank.DataAccess\ScheinBank.DataAccess.csproj", "{3495D41A-47C4-41BA-851B-AE8268884AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheinBank.Interface", "ScheinyNickelBank.Interface\ScheinBank.Interface.csproj", "{531E26E5-29F8-4CF5-9F20-799D5B789D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D348816-F7FE-468C-A523-6B173EDD5615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D348816-F7FE-468C-A523-6B173EDD5615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D348816-F7FE-468C-A523-6B173EDD5615}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D348816-F7FE-468C-A523-6B173EDD5615}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D8A2C64E-AFE7-4A04-88E1-6DEA1586BC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A2C64E-AFE7-4A04-88E1-6DEA1586BC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A2C64E-AFE7-4A04-88E1-6DEA1586BC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A2C64E-AFE7-4A04-88E1-6DEA1586BC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C023786-0891-4D09-B00A-B9B37BF893F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C023786-0891-4D09-B00A-B9B37BF893F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C023786-0891-4D09-B00A-B9B37BF893F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C023786-0891-4D09-B00A-B9B37BF893F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3495D41A-47C4-41BA-851B-AE8268884AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3495D41A-47C4-41BA-851B-AE8268884AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3495D41A-47C4-41BA-851B-AE8268884AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3495D41A-47C4-41BA-851B-AE8268884AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531E26E5-29F8-4CF5-9F20-799D5B789D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531E26E5-29F8-4CF5-9F20-799D5B789D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531E26E5-29F8-4CF5-9F20-799D5B789D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531E26E5-29F8-4CF5-9F20-799D5B789D78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -36,7 +36,7 @@ namespace ScheinyNickelBank.DataAccess
 
             catch (Exception ex)
             {
-
+                //
             }
         }
 
